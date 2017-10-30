@@ -5,4 +5,4 @@ Nosso website será inicialmente maringeek.github.io, porém, em breve irei veri
 
 ## Qual o objetivo desse repositório?
 Bom, acho que temos que começar do início, portanto...
-![Senta que lá vem a história!](https://raw.githubusercontent.com/username/projectname/master/readme/entaquelavemhistoria-cultura.jpg)
+![Senta que lá vem a história!](https://raw.githubusercontent.com/maringeek/maringeek.github.io/master/readme/sentaquelavemhistoria-cultura.jpg)
