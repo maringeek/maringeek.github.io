@@ -23,3 +23,8 @@ No final de 2016 surgiu a ideia de alguns integrantes palestrares na CPBR10(Camp
 Com tudo isso posto: esse repositório é para manter o site da Comunidade Maringeek.
 
 Sinta-se livre em enviar seu pull request para inserir alguma informação no site. :)
+
+## Como posso ajudar?
+Então pequeno gafanhoto, você pode ajudar criando uma página sobre algo, você pode alterar alguma coisa, enfim: você pode fazer alterações aqui no site da Comunidade, porém, isso não quer dizer que todas as alterações serão aceitas.
+
+Você pode criar um fork desse repositório e fazer as alterações que precisa, e fazer um pull request, onde analisaremos e iremos aceitar ou recusar! :)
