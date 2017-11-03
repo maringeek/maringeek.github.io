@@ -1500,6 +1500,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			z-index: 1;
 			line-height: 35px;
 
+			.widthvw{
+				width: 100%;
+			}
+
 			&:before, &:after {
 				@include vendor('transition', 'width 0.85s ease');
 				@include vendor('transition-delay', '0.25s');
