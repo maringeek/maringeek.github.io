@@ -12,7 +12,7 @@ Bom, acho que temos que começar do início, portanto...
 ### Como surgiu a Maringeek?
 Bom, esse que vos fala (João Paulo) não é dessa época. Porém, segundo pesquisas realizadas, a Maringeek não começou Maringeek.
 A Caravana de Maringá começou em 2011, com os preparativos para a CPBR5(Campus Party Brasil 2012), onde alguns membros criaram a caravana, liderados pelo [Pablo Sica](https://www.facebook.com/sicapablo), hoje o "Todo Poderoso" da [Legião Nerd](https://www.legiaonerd.com.br/). Porém, nesse momento a Caravana de Maringá não era ainda a Maringeek. Ela se tornou a Maringeek no final do ano de 2012, começando assim a atuar como Maringeek na CPBR6(Campus Party Brasil 2013), na qual foi "Alpha Tester" do que hoje é comum entre as caravanas parceiras da Campus Party: A entrada no camping antecipada.
-Em 2013, o posto de líder dos "Maringeekers" passou do Pablo Sica para o atual lider: André Lima(@andreloty).
+Em 2013, o posto de líder dos "Maringeekers" passou do Pablo Sica para o atual lider: André Lima([@andreloty](http://github.com/andreloty)).
 Desde o início, a caravana nunca parou de crescer!
 No ano de 2016, a caravana chegou em um marco histórico para a mesma: Fomos em 2 ônibus de 44 lugares cheios para a CPBR9(Campus Party Brasil 2016)!
 
